@@ -1,0 +1,2 @@
+# javaDsaQuestion
+practice for placement
